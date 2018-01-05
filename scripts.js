@@ -1,4 +1,4 @@
-alert('test'); // display alert
+// alert('test'); 
 var name = prompt('Enter your name');
 /*
 you must enter your name
